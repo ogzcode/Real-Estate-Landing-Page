@@ -1,0 +1,9 @@
+input:focus {
+    outline: 0;
+}
+
+@media screen and (min-width: 1024px) {
+    .dropdown:hover .dropdown__content {
+        display: block;
+    }
+}
